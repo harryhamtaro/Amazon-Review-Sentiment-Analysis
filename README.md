@@ -1,3 +1,6 @@
 # Amazon-Review-Sentiment-Analysis
-Sentiment Analysis of Amazon Reviews using VADER
-![image](https://github.com/harryhamtaro/Amazon-Review-Sentiment-Analysis/assets/100181150/0e41b3c2-9a14-447e-bf95-d9360d4994b1)
+Sentiment Analysis of Amazon Reviews using NLTK, VADER from 500k of Reviews
+
+# Quick Exploratory Data Analysis 
+![image](https://github.com/harryhamtaro/Amazon-Review-Sentiment-Analysis/assets/100181150/3c82973d-404c-40ff-a484-319f8a27fa3c)
+As you can see, many gave 5 star ratings based on the CSV file.
